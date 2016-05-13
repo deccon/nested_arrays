@@ -1,2 +1,2 @@
 # nested_arrays
-To flatten ann array arbitrarily nested arrays of integers
+To flatten an array of arbitrarily nested arrays of integers
